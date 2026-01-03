@@ -1,0 +1,16 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+  <Script file="BrokenMirrors.lua"/>
+
+  <Button
+    name="BrokenMirrorsPinTemplate"
+    hidden="true"
+    enableMouse="true"
+    enableMouseClicks="true"
+    mixin="BrokenMirrorsPinMixin"
+    virtual="true"
+  >
+    <Size x="24" y="24"/>
+    <NormalTexture atlas="TeleportationNetwork-Revendreth-32x32"/>
+    <HighlightTexture atlas="TeleportationNetwork-Revendreth-32x32"/>
+  </Button>
+</Ui>
