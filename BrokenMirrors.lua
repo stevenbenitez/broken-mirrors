@@ -31,9 +31,9 @@ local mirrorsByGroup = {
         { label = "Caretaker's Manor", group = 3, hint = "Inside the building with the elite mobs.", x = 0.7717, y = 0.6545 }
     },
     [4] = {
-        { label = "Dominance Keep", group = 4, hint = "Room with Elite Soulbinder", x = 0.2960, y = 0.2589 },
-        { label = "The Shrouded Asylum", group = 4, hint = "Entrance of Main Building", x = 0.2075, y = 0.5426 },
-        { label = "Redelav District", group = 4, hint = "Inside Crypt with Nobles", x = 0.5512, y = 0.3567 }
+        { label = "Dominance Keep", group = 4, hint = "In a room with a Dominance Soulbender.", x = 0.2960, y = 0.2589 },
+        { label = "The Shrouded Asylum", group = 4, hint = "Just inside the entrance of the large building, on the right.", x = 0.2075, y = 0.5426 },
+        { label = "Redelav District", group = 4, hint = "At the bottom of the crypt in the room on the left.", x = 0.5512, y = 0.3567 }
     }
 };
 

@@ -1,8 +1,11 @@
 ## Interface: 110207, 120000, 120001
-## Version: 1.0.0
+## Version: 1.0.1
 
 ## Title: Broken Mirrors
 ## Notes: Marks broken mirrors on the Revendreth world map to aid in collecting the Venthyr Travel Network transmog sets.
 ## Author: Minthus
+
+## X-Curse-Project-ID: 1419570
+## IconAtlas: TeleportationNetwork-Revendreth-32x32
 
 BrokenMirrors.xml
